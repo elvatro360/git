@@ -2,8 +2,9 @@ COMANDOS BASICOS
 * git init Oye Git, voy a usar estos documentos contigo ¿vale?
 * git add <file> Pasa los docs a staging area 
 * git add . Pasa todos los archivos
-* git commit Pasa los docs de staging area a repository (Después de esto se te va a abrir el editor de código VIN en donde tendrás que escribir un comentario, si te quieres evitar abrir VIN entonces utiliza los siguientes comandos:)
-* git commit -m "comentario" Lo mismo que el commit regular, pero ahora no necesitas entrar a VIN
+* git remote add origin https://github.com/your-username/your-repo-name.git
+* git commit Pasa los docs de staging area a repository (Después de esto se te va a abrir el editor de código VIN en donde tendrás que escribir un comentario, si te quieres evitar abrir VIM entonces utiliza los siguientes comandos:)
+* git commit -m "comentario" Lo mismo que el commit regular, pero ahora no necesitas entrar a VIM
 * git status Ver en que status (wd, sa, r) están los docs
 * git push Subir los docs a un server (Github)
 * git pull  Traer los docs de un server, traer los cambios de tus compañeros
