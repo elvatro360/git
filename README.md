@@ -1,3 +1,3 @@
 Curso git
 
-[Ver documentación Completa] (INDEX.md)
+[Ver documentación Completa](INDEX.md)
